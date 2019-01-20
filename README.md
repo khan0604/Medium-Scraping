@@ -22,9 +22,9 @@ mydb = mysql.connector.connect(
   - change them according to the code above  
   - change the above code in the [file](https://github.com/khan0604/Medium-Scraping/blob/master/Primathon_Medium/spiders/Primathon_Medium_Spider.py) according to your system 
   
-# RUN
+##### RUN
 * To run the medium scrapper use 
 ``` python main.py ```
 
-# MAIN FILE
+##### MAIN FILE
 * [Primathon_Medium_Spider.py](https://github.com/khan0604/Medium-Scraping/blob/master/Primathon_Medium/spiders/Primathon_Medium_Spider.py) - The code for scrapping is coded in this file
